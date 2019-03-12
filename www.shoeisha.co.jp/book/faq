@@ -1,0 +1,863 @@
+  <!DOCTYPE HTML>
+  <html>
+  <head>
+  <script>
+var dataLayer = dataLayer || [];
+  dataLayer.push({
+    'trackPageview':'SECOJP/book/faq',
+  });
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PS58RX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PS58RX');</script>
+<!-- End Google Tag Manager -->
+          <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Script-Type" content="text/javascript">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <meta http-equiv="Imagetoolbar" content="no">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>よくある質問｜翔泳社の本</title>
+  <meta name="Keywords" content="翔泳社,よくある質問">
+  <meta name="Description" content="よくある質問">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@shoeisha">
+  <meta name="twitter:creator" content="@shoeisha">
+    <meta property="og:title" content="よくある質問 ｜ 翔泳社">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://www.shoeisha.co.jp/book/faq">
+  <meta property="og:image" content="https://www.shoeisha.co.jp/assets/img/logo/fb-1200.png" />
+  <meta property="og:site_name" content="Shoeisha">
+  <meta property="og:description" content="よくある質問">
+  <meta property="fb:admins" content="100002509171990">
+          <!--
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      -->    <meta name="cXenseParse:pageclass" content="frontpage"/>  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="/assets/js/bootstrap.js"></script>
+  <script src="/assets/js/responsiveslides.min.js"></script>
+  <script src="/assets/js/slick.js"></script>
+  <script src="/assets/js/application.js"></script>
+  <script src="/assets/js/masterslider.min.js"></script>
+  <script src="/assets/js/tab.js"></script>
+  <script src="/assets/js/jquery.easing.min.js"></script>
+  <script src="/assets/js/jquery.matchHeight-min.js"></script>
+  <script src="/assets/js/dfp.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js" type="text/javascript"></script>
+  <link rel="alternate" type="application/rss+xml" title="" href="/rss/index.xml">
+  <link rel="alternate" type="application/rss+xml" title="" href="/rss/book/index.xml">
+  <link href="/assets/css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/responsiveslides.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/slick.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/assets/css/masterslider.css" />
+  <link href='/assets/css/ms-tabs-style.css' rel='stylesheet' type='text/css'>
+  <link href="/assets/css/books.css" rel="stylesheet" type="text/css">
+  <script src="/assets/js/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js"></script>
+  <link href="/assets/js/bootstrap-datetimepicker/bootstrap-datetimepicker.min.css" rel="stylesheet" type="text/css">
+
+  
+  
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <script>
+      var _UA = navigator.userAgent;
+      if (_UA.indexOf('iPhone') > -1 || _UA.indexOf('iPod') > -1 || _UA.indexOf('iPad') > -1 || _UA.indexOf('Android') > -1 ) {
+      }else{
+                    document.write('<link rel="stylesheet" href="/assets/css/non-responsive.css">');
+                }
+      // navbar opacity
+      $(window).scroll(function() {
+          var s = $(this).scrollTop();
+          if (s > 33) {
+              $(".navbar-fixed-top").addClass("navbar-fixed-top-bg1");
+              $(".navbar-fixed-top input.header-search").addClass("navbar-fixed-top-bg2");
+              $(".navbar-fixed-top .nav > li > a").addClass("navbar-fixed-top-bg3");
+          } else if (s <= 33) {
+              $(".navbar-fixed-top").removeClass("navbar-fixed-top-bg1");
+              $(".navbar-fixed-top input.header-search").removeClass("navbar-fixed-top-bg2");
+              $(".navbar-fixed-top .nav > li > a").removeClass("navbar-fixed-top-bg3");
+          }
+      });
+  </script>
+  <script type='text/javascript'>
+  init_dfp();
+  // hide menus
+  /*
+  $(document).ready(function(){
+      if (location.pathname.search('/book') < 0) {
+          $('.container-fluid').hide();
+          $('#menu_readers').hide();
+          $('#menu_houjin').hide();
+      }
+  });
+  */
+  </script>
+  <!-- Cxense script start -->
+<script type="text/javascript">
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+  var cx_props = cx_props || {}; cx_props['k'] = [];
+  var cpl = [];
+  var spl = [];
+  cX.callQueue.push(['invoke', function() {
+    var cp = {}, sa = {};
+    var cpMaxLen = 40;
+    var cpKeyLen = 20;
+    try{
+      var refhost = cX.library._findRealReferrer().split('/')[2];
+      if(refhost && location.hostname !== refhost) {
+        cp["referrer_host"] = sa["referrer_host_S"] = refhost.slice(0,cpMaxLen);
+      }
+    }catch(e){}
+    var u = ["utm_source", "utm_medium", "utm_term", "utm_content", "utm_campaign"];
+    if((typeof(spl) !== "undefined") && (Object.prototype.toString.call(spl) === "[object Array]")) {
+      Array.prototype.push.apply(u, spl);
+    }
+    if(location.search) location.search.substring(1).split("&").forEach(function(k){
+      try{
+        var v = k.split("=");
+        if(v[0].slice(0,3)==="cx_" && v[1]) {
+          sa[v[0].replace(/^cx_/,"")+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if(u.indexOf(v[0].toLowerCase())!==-1 && v[1]) {
+          cp[v[0].toLowerCase().slice(0,cpKeyLen)] = sa[v[0].toLowerCase()+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if((typeof(cpl) !== "undefined") && (Object.prototype.toString.call(cpl) === "[object Array]") && (cpl.indexOf(v[0].toLowerCase())!==-1 && v[1])) {
+          cp[v[0].toLowerCase().slice(0,cpKeyLen)] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        }
+      }catch(e){}
+    });
+    if(!cX.getUserId(false)) {
+      cp["newuser"] = sa["newuser_S"] = "true";
+    }
+    else {
+      try{
+        var t = new Date().getTime() - parseInt(cX.library.m_atfr.match(/altm=(\d+)/)[1]);
+        if (t >= 1000*60*30) {
+          cX.stopAllSessionAnnotations();
+          var da = Math.floor(t/(1000*60*60*24));
+          if(da < 1) {
+            cp["elapsed"] = sa["elapsed_S"] = "\u0031\u65E5\u4EE5\u5185";
+          } else if(da < 7) {
+            cp["elapsed"] = sa["elapsed_S"] = String(da)+"\u65E5\u3076\u308A";
+          } else if(da < 31) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/7))+"\u9031\u9593\u3076\u308A";
+          } else if(da < 365) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/31))+"\u30F6\u6708\u3076\u308A";
+          } else {
+            cp["elapsed"] = sa["elapsed_S"] = "1\u5E74\u4EE5\u4E0A";
+          }
+        }
+      } catch(e) {}
+    }
+    var cx_eu = cX.getCookie('eu');
+    if (cx_eu){
+        cX.setCustomParameters({'status': 'login'});
+        cX.addExternalId({'id': cx_eu, 'type': 'sho'});
+    }
+    if (typeof eU !== 'undefined' && typeof eU.isLoggingIn === 'function') {
+        cX.setCustomParameters({'logging_in': eU.isLoggingIn()});
+    }
+    var cx_op = cX.getCookie('cx_op');
+    if (cx_op) {
+        cX.setCustomParameters({'optin_url': cx_op});
+    }
+
+    var originalRef=document.referrer;
+    if(originalRef.match(/faeb92b469b40c9d72e4-dc920caace12a27e58d45a42e86d29a2\.ssl\.cf2\.rackcdn\.com\/generic_v[0-9]+\.html/) || originalRef.match(/cdn\.cxpublic\.com\/generic_v[0-9]+\.html/)){
+        sa["cx_source_S"] = "cxrecs";
+    }
+    if(Object.keys(cp).length>0) {
+      cX.setCustomParameters(cp);
+    }
+    if(Object.keys(sa).length>0) {
+      cX.startSessionAnnotation(sa);
+    }
+    try {
+      "newuser_S" in cX.library._getSessionAnnotations() && cx_props['k'].push("newuser");
+    } catch(e) {}
+  }]);
+  cX.callQueue.push(['setSiteId', '1142970223097374056']);
+  cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+<!-- Cxense script end -->
+<!-- Cxense Customized script start -->
+<script type="text/javascript">
+  window.cXcustom = window.cXcustom || function() {(window.cXcustom.q = window.cXcustom.q || []).push(arguments)};
+  cX.callQueue.push(['invoke', function() {
+    var cx_reading_params = {origin: "sho-web", persistedQueryId: "15407cc43187c9b0981171abc4e9b4dc4e1d7c22"};
+    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_entire_page:String(pos)+'%'}, cx_reading_params);} , 0, '', false, 1000);
+    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_article:String(pos)+'%'}, cx_reading_params);}, 1, 'container_contents', true, 1000);
+    //    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_articleBottom:String(pos)+'%'}, cx_reading_params);} , 2, 'top-menu', false, 1000);
+    cX.loadScript("/assets/js/cx-custom.js");
+  }]);
+</script>
+<!-- Cxense Customized script end -->
+  <!-- Facebook Pixel Code -->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '1704151296468367'); fbq('track', 'PageView');</script><noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=1704151296468367&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->  </head>
+  <body style="">
+  <a id="pagetop" name="pagetop"></a>
+  <div id="cx_contents_block">
+  <header role="banner" id="top-menu" class="navbar">
+    <button data-target=".bs-navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggle"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+    <div class="navbar-header mobile"> <a class="navbar-brand" href="/book"> <img src="/assets/img/logo/sebook.png" class="img-responsive"> </a> </div>
+    <nav class="navbar navbar-fixed-top collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <div class="container-fluid">
+        <ul class="nav navbar-nav">
+          <li> <a href="/book/genre/1">コンピュータ</a> </li>
+          <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">資格 <b class="caret"></b> </a>
+            <ul class="dropdown-menu">
+              <li> <a onclick="$('#navtop').attr('class', 'navbar navbar-default')" href="/exampress/it/">IT資格</a> </li>
+              <li> <a onclick="$('#navtop').attr('class', 'navbar navbar-default')" href="/exampress/biz">ビジネス資格</a> </li>
+              <li> <a onclick="$('#navtop').attr('class', 'navbar navbar-default1')" href="/exampress/fukushi">福祉資格</a> </li>
+              <li> <a onclick="$('#navtop').attr('class', 'navbar navbar-default1')" href="/exampress/eng">工学資格</a> </li>
+            </ul>
+          </li>
+          <li> <a href="/book/genre/5">ビジネス</a> </li>
+          <li> <a href="/book/genre/7">実用</a> </li>
+          <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">電子書籍 <b class="caret"></b> </a>
+            <ul class="dropdown-menu">
+              <li> <a href="/book/ebooks">電子書籍一覧</a> </li>
+              <li> <a href="http://www.seshop.com/product/327/" target="_blank">電子書籍【PDF版】</a> </li>
+              <li> <a href="/campaign/book/digitalfirst/" target="_blank">デジタルファースト</a> </li>
+            </ul>
+          </li>
+          <li> <a href="/book/app/">アプリ</a> </li>
+          <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">POD <b class="caret"></b> </a>
+            <ul class="dropdown-menu">
+              <li> <a href="/book/pod">POD一覧</a> </li>
+              <li> <a href="/campaign/book/digitalfirst/">デジタルファースト</a> </li>
+            </ul>
+          </li>
+          <li> <a href="/book/audio/">音声</a> </li>
+                    <li><div id="social">
+  <ul style=" margin-top: 5px;">
+    <li> <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.shoeisha.co.jp%2Fbook%2Ffaq" target="_blank"><img src="/assets/img/bo-facebook.png"></a>
+    </li>
+    <li> 
+    <a href="https://twitter.com/intent/tweet?text=よくある質問｜翔泳社の本&url=https%3A%2F%2Fwww.shoeisha.co.jp%2Fbook%2Ffaq" rel=”nofollow” target="_blank"><img src="/assets/img/bo-twitter.png"></a>
+    </li>
+    <li> <a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.shoeisha.co.jp%2Fbook%2Ffaq" onclick="window.open(this.href, 'Gwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;"><img src="/assets/img/bo-google.png"></a>
+    <li>
+    <a href="http://b.hatena.ne.jp/entry/https%3A%2F%2Fwww.shoeisha.co.jp%2Fbook%2Ffaq" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple" title="翔泳社の本"><img src="/assets/img/bo-hatena.png" alt="はてなブックマークに追加"/></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    </li>
+        <li><div class="line-it-button" data-lang="ja" data-type="share-b" data-url="" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script></li>
+  </ul>
+</div>
+</li>
+        </ul>
+        <form action="/search" role="search" class="navbar-form navbar-right search-box">
+          <div class="input-group input-group-sm">
+            <input type="text" placeholder="本を探す" name="search" class="form-control" value="" >
+            <span class="input-group-btn">
+            <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+            </span> </div>
+
+
+          <!--
+              <div class="form-group">
+                <label for="search">
+                  <span class="glyphicon glyphicon-search"></span>
+                </label>
+                <input type="text" name="search" placeholder="本を探す" value="" class="form-control input-sm header-search">
+              </div>
+              -->
+        </form>
+      </div>
+    </nav>
+    <div class="container second-navbar">
+      <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-5">
+          <div class="navbar-header"> <a class="navbar-brand" href="/book"><img src="/assets/img/logo/sebook.png" class="img-responsive"></a></div>
+          <p class="pull-left"><strong>翔泳社の本</strong></p>
+        </div>
+        <div class="col-lg-8 col-md-8 col-sm-7">
+            <div class="login-menu pull-right">
+  
+
+<script>
+  $(function(){
+    //if (get_view_mode() == 'pc') $('a[rel=popover]').popover();
+
+    $('#modal_login').on('shown.bs.modal', function(e) {
+      $("#email").focus();
+    });
+
+    $('#modal_login').on('hidden.bs.modal', function(e) {
+      $('#valid_message').html('');
+    });
+
+    if (location.hash.indexOf('#login_e') == 0){
+      $('#valid_message').html('<font color="red"><b>IDまたはパスワードが違います。</b></font>');
+      $('#modal_login').modal('show')
+    }
+  });
+</script>
+
+        <a class="btn btn-warning" href="/book/id/?ref=/book/faq" role="button">会員登録（無料）</a>
+      <a class="btn btn-default" data-toggle="modal" href="#modal_login">ログイン</a>
+  
+        </div>
+
+        <div class="second-navmenu pull-right">
+            <div class="btn-group"> <a data-toggle="dropdown" class="btn btn-default dropdown-toggle" id="menu_readers">読者の皆様へ <span class="caret"></span> </a>
+              <ul class="dropdown-menu" role="menu">
+                <li> <a href="/book/errata">正誤表</a> </li>
+                <li> <a href="/book/faq">よくある質問</a> </li>
+                <li> <a href="/book/qa">書籍に関する問い合わせ</a> </li>
+                <li> <a href="/book/download">ダウンロード</a> </li>
+                <li> <a href="/article">コラム</a> </li>
+              </ul>
+            </div>
+            <div class="btn-group"> <a data-toggle="dropdown" class="btn btn-default dropdown-toggle" id="menu_houjin">書店・法人様 <span class="caret"></span> </a>
+              <ul class="dropdown-menu" role="menu">
+                <li> <a href="/bookstore">書店様</a> </li>
+                <li> <a href="/biz">企業・教育機関様</a> </li>
+              </ul>
+            </div>
+            </div>
+
+
+      </div>
+    </div>
+    </div>
+
+    <div class="mobile sp-search-box" style="display:none">
+      <form action="/search" role="search" class="navbar-form navbar-right">
+        <div class="input-group input-group-sm">
+          <input type="text" placeholder="本を探す" name="search" class="form-control" value="" style="font-size: 16px;">
+          <span class="input-group-btn">
+          <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+          </span> </div>
+      </form>
+    </div>
+
+    <div class="login-menu mobile text-center">
+  
+
+<script>
+  $(function(){
+    //if (get_view_mode() == 'pc') $('a[rel=popover]').popover();
+
+    $('#modal_login').on('shown.bs.modal', function(e) {
+      $("#email").focus();
+    });
+
+    $('#modal_login').on('hidden.bs.modal', function(e) {
+      $('#valid_message').html('');
+    });
+
+    if (location.hash.indexOf('#login_e') == 0){
+      $('#valid_message').html('<font color="red"><b>IDまたはパスワードが違います。</b></font>');
+      $('#modal_login').modal('show')
+    }
+  });
+</script>
+
+        <a class="btn btn-warning" href="/book/id/?ref=/book/faq" role="button">会員登録（無料）</a>
+      <a class="btn btn-default" data-toggle="modal" href="#modal_login">ログイン</a>
+      </div>
+
+  </header>
+  <div class="container container_contents"><h1>お問い合わせの多い一般的な質問</h1>
+
+
+<section>
+
+<p>よくお問い合わせのある項目をまとめています。お問い合わせの前にご一読ください。</p>
+
+  <div class="accordion" id="accordion">
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id17">
+    書評で翔泳社の書籍を紹介したいのですが（紙面、番組、ホームページ等）。
+    </a>
+   </div>
+   <div id="faq_id17" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      翔泳社では、弊社出版物を書評やブックレビューなどでご紹介いただく場合には、<a href="http://www.shoeisha.co.jp/book/qa">「翔泳社刊行物Q＆A」</a>で該当書籍を検索し、[問い合わせ]タブの「書影の利用許諾について」より申請いただくと、利用許諾書の発行と高解像度書影画像をダウンロードいただけます。なお、書影の利用にとどまらない申請やご相談（転載許諾、取材等）については、<a href="http://www.shoeisha.co.jp/book/qa">「翔泳社刊行物Q＆A」</a>で該当書籍を検索し、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「利用許諾」を選んでご質問いただくか、<a href="tel:0353623705">03-5362-3705</a>までご連絡ください（電話受付時間：平日10〜13時、14〜18時）。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id15">
+    刊行予定について教えてください。
+    </a>
+   </div>
+   <div id="faq_id15" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      具体的な刊行予定のある書籍に関しましては、以下のいずれかの方法で確認できます。<br />
+<ul><br />
+<li><a href="https://www.shoeisha.co.jp/ml">翔泳社編集部発行のメールマガジン</a>を購読いただく</li><br />
+<li><a href="/rss/book/index.xml" target="_blank">RSS</a>を購読いただく</li><br />
+<li><a href="http://www.shoeisha.co.jp/book/qa">翔泳社刊行物Q＆A</a>で該当書籍を検索し、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「刊行予定」を選んで、ご質問いただく</li><br />
+<li><a href="http://www.shoeisha.co.jp/book/">翔泳社のサイト</a>でご確認いただく</li><br />
+</ul><br />
+上記で確認できないなどの場合は、<a href="tel:0353623705">03-5362-3705</a>（電話受付時間：平日10〜13時、14〜18時）までご連絡ください。<br />
+
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id2">
+    翔泳社の書籍はどこで手に入りますか？
+    </a>
+   </div>
+   <div id="faq_id2" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      翔泳社の書籍は、全国の書店でお求めいただけます。万一ご希望の商品がない場合は書店でご注文いただくか、<a href="http://www.shoeisha.co.jp/book/qa">「翔泳社刊行物Q＆A」</a>で該当書籍を検索し、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「既刊案内」を選んで、お問い合わせいただけますでしょうか。また、<a href="http://seshop.com/">SEshop.com</a>（翔泳社のオンラインショップ）から直接注文することもできますので、どうぞご利用ください。<br />
+なお、講座や研修、セミナー等での採用に関するお問い合わせは、<a href="tel:0353623705">03-5362-3705</a>までご連絡ください（電話受付時間：平日10〜13時、14〜18時）。<br />
+<br />
+
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id9">
+    書籍の記載に間違いを発見しました。
+    </a>
+   </div>
+   <div id="faq_id9" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      編集に際しては細心の注意を払っておりますが、誤字、脱字、誤記にお気づきの際は、<br />
+ご指摘いただけるよう準備しております。<a href="http://www.shoeisha.co.jp/book/qa">翔泳社刊行物Q＆A</a>で該当書籍を検索し、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「誤字・脱字」を選んでご質問いただけると幸いです。<br />
+なお、電話でのご質問は、承っておりません。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id5">
+    書籍の内容について確認したい。
+    </a>
+   </div>
+   <div id="faq_id5" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      <a href="http://www.shoeisha.co.jp/book/qa">該当書籍</a>をご指定のうえ、正誤表や追加情報をご参照いただき、それでも解決しない場合は、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「記載内容確認」を選んでご質問いただると幸いです。<br />
+なお、電話でのご質問は、承っておりません。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id10">
+    書籍のページが飛んだり、順番どおり並んでいません。
+    </a>
+   </div>
+   <div id="faq_id10" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      造本には細心の注意を払っておりますが、万一、乱丁（ページの順序違い）や落丁（ページの抜け）がございましたら、お取り替えいたします。<a href="http://www.shoeisha.co.jp/book/qa">翔泳社刊行物Q＆A</a>で該当書籍を検索し、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「乱丁・落丁」を選んでご質問いただくか、<a href="tel:0353623705">03-5362-3705</a>までご連絡ください（電話受付時間：平日10〜13時、14〜18時）。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id12">
+    書籍に付属のCD-ROM（DVD-ROM）が破損しています。CD-ROM（DVD-ROM）が付属とありますが、中身が入っていません。
+    </a>
+   </div>
+   <div id="faq_id12" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      CD-ROM（DVD-ROM）に傷がついているなど、物理的な不良や破損は、CD-ROM（DVD-ROM）を交換いたします。また、流通の過程でCD-ROM（DVD-ROM）が紛失することもあります。こうした書籍を購入された場合は、翔泳社からCD-ROM（DVD-ROM）を提供いたします。<a href="http://www.shoeisha.co.jp/book/qa">該当書籍</a>をご指定のうえ、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「付属物欠損・破損・遺失」を選んでご質問いただくか、<a href="tel:0353623705">03-5362-3705</a>までご連絡ください（電話受付時間：平日10〜13時、14〜18時）。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id20">
+    CD-ROM（DVD-ROM）に収録されているサンプルデータ等を利用したいのですが。
+    </a>
+   </div>
+   <div id="faq_id20" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      書籍によりサンプルデータ等に関する著作権の許容範囲が異なりますので、その書籍に記載されている注意内容をよくお読みになり、ご判断ください。一般的な考え方として、個人で学習用、教育用等に使用するのであれば許可されるケースが多いようです。商業目的の場合は、判断が書籍ごとに異なります。<a href="http://www.shoeisha.co.jp/book/qa">該当書籍</a>をご指定のうえ、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「利用許諾」を選んでご質問いただくか、<a href="tel:0353623705">03-5362-3705</a>までご連絡ください（電話受付時間：平日10〜13時、14〜18時）。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id14">
+    書籍の記述どおりに操作してもうまくいきません。
+    </a>
+   </div>
+   <div id="faq_id14" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      まず、お手元にある書籍の記載どおりかどうか、今一度お確かめください。また付属CD-ROM（DVD-ROM）に完成版があるときはそちらも参照してみてください。書籍の内容に関しては、出版前に必ずチェックしておりますが、出版後の環境の変化（OSやソフトウェアのバージョンアップ）等で、記述どおりにいかなくなることもあります。また、書籍の内容が対応しているバージョンもお確かめください。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id3">
+    KindleやGoogle Playブックス、楽天koboで販売されている電子書籍について質問したい。
+    </a>
+   </div>
+   <div id="faq_id3" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      サービスの使い方や機能に関するご質問は、Kindleについては、<a href="http://www.amazon.co.jp/gp/help/customer/display.html/ref=sv_kinc_9?ie=UTF8&nodeId=200698610">Kindleサポート</a>から、Google Play ブックスについては、<a href="http://support.google.com/googleplay/bin/request.py?contact_type=contact_policy&policy=books">Google Playヘルプ</a>から、楽天koboについては、<a href="http://kobo.faq.rakuten.ne.jp/">koboヘルプページ</a>からお問い合わせください。また、書籍の内容についての確認は、<a href="https://www.shoeisha.co.jp/book/errata">該当書籍</a>をご指定のうえ、正誤表や追加情報をご参照いただき、それでも解決しない場合は、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「記載内容確認」を選んでご質問いただけると幸いです。<br />
+なお、書籍の内容に関して、電話でのご質問は、承っておりません。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id6">
+    欲しい本がKindleやGoogle Playブックス、楽天koboで販売されているか確認したい。
+    </a>
+   </div>
+   <div id="faq_id6" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      翔泳社では、販売されている電子書籍に関しましては、<a href="http://www.shoeisha.co.jp/book/ebooks">SE BOOK 電子書籍 一覧</a>でご案内差し上げております。また、<a href="http://www.shoeisha.co.jp/book/qa">翔泳社刊行物Q＆A</a>で該当書籍を検索し、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「刊行予定」を選んで、ご質問いただくか、<a href="tel:0353623705">03-5362-3705</a>までご連絡いただけますでしょうか（電話受付時間：平日10〜13時、14〜18時）。なお、最新刊は、<a href="http://www.shoeisha.co.jp/book">こちら</a>でも紹介しておりますので、どうぞご利用ください。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id316">
+    回答までどの位の期間がかかるか教えてください。
+    </a>
+   </div>
+   <div id="faq_id316" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      翔泳社では、お客様からのお問い合わせは、先に受け取ったものから順に対応させていただきます。回答をお求めの方にはなるべく速やかにお答えいたしますが、関係者への連絡、問い合わせなどでお時間をいただくこともありますのでご承知おきください。また、内容によってはお答え致しかねる場合もございます。そのため、回答までのお時間のお約束や指定はできません。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id21">
+    こちらは、図書館なのですが、CD-ROM（DVD-ROM）付きの書籍を貸し出し扱いにしても良いのでしょうか？
+    </a>
+   </div>
+   <div id="faq_id21" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      翔泳社では、原則として貸し出しを認めるスタンスをとっています。ただし、ソフトウェアの収録条件上、あるいは著者等の意向により、貸し出しを認められないケースもありえます。<a href="http://www.shoeisha.co.jp/book/qa">翔泳社刊行物Q＆A</a>で該当書籍を検索し、[問い合わせ]タブの「書籍への問い合わせ」より、「ご質問の種類」で「利用許諾」を選んでご質問いただくか、<a href="tel:0353623705">03-5362-3705</a>までご一報ください（電話受付時間：平日10〜13時、14〜18時）。
+     </div>
+   </div>
+  </div>
+    <div class="accordion-group">
+   <div class="accordion-heading">
+    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#faq_id315">
+    「翔泳社刊行物Q&amp;A」はどのWebブラウザで閲覧できますか。
+    </a>
+   </div>
+   <div id="faq_id315" class="accordion-body collapse">
+     <div class="accordion-inner"> 
+      推奨するWebブラウザは、<a href="http://www.google.co.jp/chrome/">Chrome</a>、<a href="http://windows.microsoft.com/ja-JP/internet-explorer/products/ie/home">Internet Explorer（Internet Explorer 8以上）</a>、<br />
+<a href="http://mozilla.jp/firefox/">Firefox</a>、<a href="http://www.apple.com/jp/safari/">Safari</a>です。なお、パソコンはもちろん、タブレットやスマートフォンでも閲覧できます。
+     </div>
+   </div>
+  </div>
+    </div>
+  
+
+</section>
+
+
+<section>
+<div class="well">
+<h3>【お知らせ】『かわいいバラと猫の素材集』収録データのライセンス制限について</h3>
+<p>2011年5月刊行の『かわいいバラと猫の素材集』において、一部の素材に無断転
+用・転載があったため、該当する素材データをご利用いただくことができません。
+同書はすでに絶版・回収・在庫廃棄という処分を取っておりますが、同書をご購
+入いただいた読者の皆様には、お手数ではございますが下記の「利用できない素
+材データのリスト」をご参照くださいますようお願い申し上げます。
+また、返品も承りますので「返品のご案内」をご覧ください。</p>
+<p><a style="text-decoration:underline" target="_blank" href="http://www.seshop.com/static/qa/list.pdf">利用できない素材データのリスト＆返品のご案内</a></p>
+<p>*下線部をクリックするとPDFファイルがダウンロードされます。
+</p>
+</div>
+</section>
+
+
+
+</div>
+  </div>
+  <footer>       <div class="container support_link">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#support">読者の皆様へ 
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="support" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/book/errata">正誤表</a>
+                    </li>
+                    <li>
+                      <a href="/book/faq">よくある質問</a>
+                    </li>
+                    <li>
+                      <a href="/book/qa">刊行物Ｑ＆Ａ</a>
+                    </li>
+                    <li>
+                      <a href="/book/download">ダウンロード</a>
+                    </li>
+                    <li>
+                      <a href="/article">コラム</a>
+                    </li>
+                    <li>
+                      <a href="/ml">メールマガジン</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#custmor">書店・法人様 
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="custmor" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/bookstore">書店様</a>
+                    </li>
+                    <li>
+                      <a href="/biz">企業・教育機関様</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+          <div class="link">
+       <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <h2>会社情報</h2>
+              <ul>
+                <li>
+                  <a href="/">TOP</a>
+                </li>
+                <li>
+                  <a href="/about">会社案内</a>
+                </li>
+                 <li>
+                  <a href="/mission">企業理念</a>
+                </li>
+                <li>
+                  <a href="/service">サービス案内</a>
+                </li>
+                <li>
+                  <a href="/press">お知らせ</a>
+                </li>
+                <li>
+                  <a href="/ir">IR情報</a>
+                </li>
+                <li>
+                  <a href="/map">アクセス</a>
+                </li>
+                <li>
+                  <a href="/recruit">採用情報</a>
+                </li>
+                <li class="last">
+                  <a href="/contact">お問い合わせ</a>
+                </li>
+                <li>
+                  <a href="/privacy">個人情報保護</a>
+                </li>
+                <li>
+                  <a href="/exemption">免責事項</a>
+                </li>
+                <li>
+                  <a href="/privacy/social-policy/">SNS利用ポリシー</a>
+                </li>
+                <li>
+                  <a href="https://shoeisha.jp" target="_blank">SHOEISHA iD</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>運営サイト</h2>
+              <ul>
+                <li>
+                  <a href="/book/">本</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://codezine.jp/">プログラミング</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://enterprisezine.jp/">企業ITとマネジメント</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://markezine.jp/">マーケティング</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://moneyzine.jp/">株式投資</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://selectbox.shoeisha.jp/">ホワイトペーパー</a>
+                </li>
+                <li >
+                  <a target="_blank" href="https://eczine.jp/">ECマーケティング</a>
+                </li>
+                <li >
+                  <a target="_blank" href="https://bizzine.jp/">イノベーション</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://itjinzai-lab.jp/">IT人材</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://edtechzine.jp/">教育ICT</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://minna-no-kurashi.jp/">暮らし・家事</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://event.shoeisha.jp/">イベント・セミナー</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.shoeisha.co.jp/ad/">広告掲載のご案内</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>直販サイト</h2>
+              <ul>
+                <li>
+                  <a target="_blank" href="https://www.seshop.com/">SEshop.com</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>グループ企業</h2>
+              <ul>
+                <li>
+                  <a target="_blank" href="http://www.sehi.co.jp/">SE H&amp;I</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://shoeishaacademy.co.jp/">翔泳社アカデミー</a>
+                  <ul style="list-style-type:disc;margin: 0 0 0 1.5em;">
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denken3.com/">電験三種</a>
+                        </li>
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/">電気工事士講座</a>
+                        </li>
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/kouza/denkou1/">第一種電気工事士</a>
+                        </li>
+                        <li  style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/kouza/denkou2/">第二種電気工事士</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.seplus.jp/">SEプラス</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <div class="copyright">Copyright © 1985-2019 SHOEISHA, All rights reserved.</div>
+          </div>
+          <div class="col-md-7 companybanner">
+            <div class=" pull-right">
+              <a href="https://privacymark.jp/" target="_blank"><img alt="" src="/static/common/images/pmark.gif"></a>
+              <a href="http://www.sehi.co.jp/" target="_blank"><img alt="" src="/static/common/images/ToshoJasdaqSEHIG_land.png"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+ </footer>
+  <p id="page-top" style="display: block;"> <a href="#top-menu"> <span class="glyphicon glyphicon-chevron-up"></span> </a> </p>
+
+
+
+
+<script type="text/javascript">
+<!--
+$(function(){
+  function changeInputType(inputId, type) {
+      var input = $("#" + inputId);
+      $(input).replaceWith($('<input class="form-control" placeholder="Password" />').val(input.val()).attr("placeholder", input.attr("placeholder")).attr("id", inputId).attr("type", type).attr("name", 'password'));
+  }
+
+  $("#show-ps").change(function() {
+      //チェックされてるときはtextを適応する
+      if ($(this).prop('checked')) {
+          changeInputType("password", "text");
+      } else {
+          changeInputType("password", "password");
+      }
+  });
+
+  if ($("#show-ps").attr("checked")) {
+      changeInputType("password", "text");
+  }
+});
+// -->
+</script>
+​
+<div class="modal" id="modal_login" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="closebox" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title">ログイン</h4>
+
+      </div>
+      <form class="form-horizontal" id="LoginForm" role="form" action="https://www.shoeisha.co.jp/secom/user/login" method="POST">
+      <div class="modal-body">
+          <div id="valid_message"></div>
+          <input type="hidden" name="ref" value="/book/faq">
+          <div class="form-group">
+            <label for="inputEmail1" class="col-md-3 control-label">Eメール</label>
+            <div class="col-md-9">
+              <input type="text" name="email" class="form-control" id="email" placeholder="Email">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputPassword1" class="col-md-3 control-label">パスワード</label>
+            <div class="col-md-9">
+              <input type="password" name="password" class="form-control" id="password" placeholder="Password">
+              <br /><input id="show-ps" type="checkbox" /><label for="show-ps">パスワードを表示</label>
+            </div>
+          </div>
+          <p style="margin: 0;font-size:12px;font-weight: bold;">※旧SEメンバーシップ会員の方は、同じ登録情報（Eメール＆パスワード）でログインいただけます。</p>
+      </div>
+      <div class="modal-footer">
+        <button type="submit" class="btn btn-warning" id="login_submit">ログイン</button>
+        <a href="https://shoeisha.jp/users/password" class="btn btn-default" target="_blank">パスワードを忘れた</a>
+      </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+
+
+  <!-- TemplateEnd -->
+
+  </body>
+</html>

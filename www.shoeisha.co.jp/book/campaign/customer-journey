@@ -1,0 +1,696 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+        <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Imagetoolbar" content="no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>はじめてのカスタマージャーニーマップワークショップ ｜ 翔泳社の本</title>
+    <meta name="Keywords" content="翔泳社,はじめてのカスタマージャーニーマップワークショップ">
+    <meta name="Description" content="顧客体験から逆算して、自社の課題を見つける。大人気のワークショップがついに書籍化！">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@shoeisha">
+    <meta name="twitter:creator" content="@shoeisha">
+        <meta property="og:title" content="はじめてのカスタマージャーニーマップワークショップ ｜ 翔泳社の本">
+<meta property="og:description" content="顧客体験から逆算して、自社の課題を見つける。大人気のワークショップがついに書籍化！ ">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.shoeisha.co.jp/book/campaign/customer-journey">
+<meta property="og:image" content="https://www.shoeisha.co.jp/static/book/campaign/customer-journey/images/1200_630.png" />
+<meta property="og:site_name" content="Shoeisha">
+<meta property="fb:admins" content="100002509171990">
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link href="/assets/css/bootstrap4.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/books.css" rel="stylesheet" type="text/css">
+
+    
+
+
+    <!-- Cxense script start -->
+<script type="text/javascript">
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+  var cx_props = cx_props || {}; cx_props['k'] = [];
+  var cpl = [];
+  var spl = [];
+  cX.callQueue.push(['invoke', function() {
+    var cp = {}, sa = {};
+    var cpMaxLen = 40;
+    var cpKeyLen = 20;
+    try{
+      var refhost = cX.library._findRealReferrer().split('/')[2];
+      if(refhost && location.hostname !== refhost) {
+        cp["referrer_host"] = sa["referrer_host_S"] = refhost.slice(0,cpMaxLen);
+      }
+    }catch(e){}
+    var u = ["utm_source", "utm_medium", "utm_term", "utm_content", "utm_campaign"];
+    if((typeof(spl) !== "undefined") && (Object.prototype.toString.call(spl) === "[object Array]")) {
+      Array.prototype.push.apply(u, spl);
+    }
+    if(location.search) location.search.substring(1).split("&").forEach(function(k){
+      try{
+        var v = k.split("=");
+        if(v[0].slice(0,3)==="cx_" && v[1]) {
+          sa[v[0].replace(/^cx_/,"")+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if(u.indexOf(v[0].toLowerCase())!==-1 && v[1]) {
+          cp[v[0].toLowerCase().slice(0,cpKeyLen)] = sa[v[0].toLowerCase()+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if((typeof(cpl) !== "undefined") && (Object.prototype.toString.call(cpl) === "[object Array]") && (cpl.indexOf(v[0].toLowerCase())!==-1 && v[1])) {
+          cp[v[0].toLowerCase().slice(0,cpKeyLen)] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        }
+      }catch(e){}
+    });
+    if(!cX.getUserId(false)) {
+      cp["newuser"] = sa["newuser_S"] = "true";
+    }
+    else {
+      try{
+        var t = new Date().getTime() - parseInt(cX.library.m_atfr.match(/altm=(\d+)/)[1]);
+        if (t >= 1000*60*30) {
+          cX.stopAllSessionAnnotations();
+          var da = Math.floor(t/(1000*60*60*24));
+          if(da < 1) {
+            cp["elapsed"] = sa["elapsed_S"] = "\u0031\u65E5\u4EE5\u5185";
+          } else if(da < 7) {
+            cp["elapsed"] = sa["elapsed_S"] = String(da)+"\u65E5\u3076\u308A";
+          } else if(da < 31) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/7))+"\u9031\u9593\u3076\u308A";
+          } else if(da < 365) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/31))+"\u30F6\u6708\u3076\u308A";
+          } else {
+            cp["elapsed"] = sa["elapsed_S"] = "1\u5E74\u4EE5\u4E0A";
+          }
+        }
+      } catch(e) {}
+    }
+    var cx_eu = cX.getCookie('eu');
+    if (cx_eu){
+        cX.setCustomParameters({'status': 'login'});
+        cX.addExternalId({'id': cx_eu, 'type': 'sho'});
+    }
+    if (typeof eU !== 'undefined' && typeof eU.isLoggingIn === 'function') {
+        cX.setCustomParameters({'logging_in': eU.isLoggingIn()});
+    }
+    var cx_op = cX.getCookie('cx_op');
+    if (cx_op) {
+        cX.setCustomParameters({'optin_url': cx_op});
+    }
+
+    var originalRef=document.referrer;
+    if(originalRef.match(/faeb92b469b40c9d72e4-dc920caace12a27e58d45a42e86d29a2\.ssl\.cf2\.rackcdn\.com\/generic_v[0-9]+\.html/) || originalRef.match(/cdn\.cxpublic\.com\/generic_v[0-9]+\.html/)){
+        sa["cx_source_S"] = "cxrecs";
+    }
+    if(Object.keys(cp).length>0) {
+      cX.setCustomParameters(cp);
+    }
+    if(Object.keys(sa).length>0) {
+      cX.startSessionAnnotation(sa);
+    }
+    try {
+      "newuser_S" in cX.library._getSessionAnnotations() && cx_props['k'].push("newuser");
+    } catch(e) {}
+  }]);
+  cX.callQueue.push(['setSiteId', '1142970223097374056']);
+  cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+<!-- Cxense script end -->
+<!-- Cxense Customized script start -->
+<script type="text/javascript">
+  window.cXcustom = window.cXcustom || function() {(window.cXcustom.q = window.cXcustom.q || []).push(arguments)};
+  cX.callQueue.push(['invoke', function() {
+    var cx_reading_params = {origin: "sho-web", persistedQueryId: "15407cc43187c9b0981171abc4e9b4dc4e1d7c22"};
+    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_entire_page:String(pos)+'%'}, cx_reading_params);} , 0, '', false, 1000);
+    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_article:String(pos)+'%'}, cx_reading_params);}, 1, 'container_contents', true, 1000);
+    //    cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_articleBottom:String(pos)+'%'}, cx_reading_params);} , 2, 'top-menu', false, 1000);
+    cX.loadScript("/assets/js/cx-custom.js");
+  }]);
+</script>
+<!-- Cxense Customized script end -->
+    <!-- Facebook Pixel Code -->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '1704151296468367'); fbq('track', 'PageView');</script><noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=1704151296468367&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->  </head>
+  <body id="pagetop">
+    <script>
+var dataLayer = dataLayer || [];
+  dataLayer.push({
+    'trackPageview':'SECOJP/book/campaign/customer-journey',
+  });
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PS58RX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PS58RX');</script>
+<!-- End Google Tag Manager -->
+
+    <div id="fb-root"></div>
+
+    <link href="/static/book/campaign/customer-journey/css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="/static/book/campaign/customer-journey/css/aos.css" rel="stylesheet" type="text/css">
+<link href="/static/book/campaign/customer-journey/css/cj.css" rel="stylesheet" type="text/css">
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+<script src="/static/book/campaign/customer-journey/js/jquery.smooth-scroll.js"></script>
+<script>var ml = { timelines: {}};</script>
+<script>
+    $(document).ready(function() {
+      $('.navbar-nav li a').smoothScroll();
+	        $('#page-top a').smoothScroll();
+    });</script>
+<script>
+$(document).ready(function () {
+$(".navbar-nav li a").click(function(event) {
+$(".navbar-collapse").collapse('hide');
+});
+});
+</script>
+
+
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<nav class="navbar navbar-expand-lg bg-white border-bottom shadow-sm fixed-top">
+  <div class="container">
+    <div></div>
+    <button class="navbar-toggler flex-row-reverse" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="ナビゲーションの切替"> <i class="fas fa-angle-down"></i> </button>
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="navbar-nav  nav-fill w-100 align-items-start">
+        <li class="nav-item"> <a class="nav-link" href="#hajimeni">はじめに</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#jirei">活用事例 </a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#furoku">付属データ</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#author">著者について</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#buy">購入はこちら</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<header>
+  <div class="container">
+    <h1 class="ml2 text-center"> さあ「新しい顧客体験」を生みだす旅へ</h1>
+    <img src="/static/book/campaign/customer-journey/images/1200_630.png" class="d-block img-fluid mx-auto"  data-aos="zoom-in" data-aos-delay="800" data-aos-duration="300">
+    <style>
+.fb_iframe_widget > span {
+  vertical-align: baseline !important;
+}
+
+</style>
+<div class="float-right"> <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div id="social" class="sns">
+    <ul>
+      <li>
+      <a href="http://b.hatena.ne.jp/entry/https://www.shoeisha.co.jp/book/campaign/customer-journey" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+      </li>
+      <li>
+        <div class="fb-share-button" data-href="https://www.shoeisha.co.jp/book/campaign/customer-journey" data-type="button_count"></div>
+              </li>
+      <li>
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+        <g:plusone></g:plusone>
+      </li>
+      <li>
+      <style>
+      iframe.twitter-share-button {width: 100px!important;}
+    </style>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.shoeisha.co.jp/book/campaign/customer-journey" data-lang="ja">ツイート</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      </li>
+
+          </ul>
+  </div>
+
+
+ </div>
+    </div>
+</header>
+
+
+<div class="bo">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-12 mb-2 mb-sm-0"> <a class="button btn-block" href="https://www.amazon.co.jp/dp/4798153753?tag=sesale-22" target="_blank">Amazonで購入</a> </div>
+      <div class="col-md-6 col-12"> <a class="button btn-block" href="https://www.shoeisha.co.jp/book/detail/9784798153759" target="_blank">他書店で購入</a> </div>
+    </div>
+  </div>
+</div>
+<div class="slash">
+  <section id="hajimeni">
+    <div class="container white">
+      <h2 class="text-center"><span>はじめに</span></h2>
+      <div id="summary">
+          <p>本書はB2CとB2Bあわせて1000社を超す企業に展開してきたワークショップから生まれました。カスタマージャーニーマップについてまったく知らない、知っているけれど作ったことはない、もしくは作ったことはあるけれど活用の仕方がわからない、といったすべての人の参考になるノウハウを一冊に凝縮。本書を手に「新しい顧客体験」を生み出す旅へでかけましょう。 </p>
+          <p class="text-right">加藤希尊</p>
+       </div>
+        <h3 class="text-center">カスタマージャーニーを動画で解説</h3>
+        <div class="embed-responsive embed-responsive-16by9">
+        
+        <video loop controls poster="/static/book/campaign/customer-journey/images/poster.jpg" controlslist="nodownload">
+  <source src="/static/book/campaign/customer-journey/images/201800918_BC_videoconte_1.mp4" type="video/mp4">
+</video>
+</div>
+    </div>
+  </section>
+  <section>
+    <div class="container white">
+      <h2 class="text-center"><span>期待される新しい顧客体験</span></h2>
+      <p class="text-center">「顧客主導の時代」、顧客が企業に期待するブランド体験は急速に変化しています。</p>
+      <img src="/static/book/campaign/customer-journey/images/01.png"  class="d-block img-fluid mx-auto" data-aos="fade-right" data-aos-offset="100"> </div>
+  </section>
+  <section>
+    <div class="container white">
+      <h2 class="text-center"><span>カスタマージャーニーマップとは </span></h2>
+      <p>カスタマージャーニーとは、自社の製品・サービスに、人々がどのように出会い、興味を持ち、購入や利用に至るのかを「顧客の旅」にたとえた言葉です。
+        それを時系列で可視化することによって、顧客の視点でその体験を把握し、改善することを助けてくれるツールがカスタマージャーニーマップです。 </p>
+      <p><img src="/static/book/campaign/customer-journey/images/02.png" class="d-block img-fluid mx-auto" data-aos="fade-left" data-aos-offset="100"></p>
+      <p><img src="/static/book/campaign/customer-journey/images/03.png" class="d-block img-fluid mx-auto" data-aos="fade-right" data-aos-offset="100"></p>
+    </div>
+  </section>
+  <section id="jirei">
+    <div class="container white">
+      <h2 class="text-center"><span>活用事例</span></h2>
+      <p><img src="/static/book/campaign/customer-journey/images/chacott.png" class="d-block img-fluid mx-auto" data-aos="fade-left" data-aos-offset="100"></p>
+      <p><img src="/static/book/campaign/customer-journey/images/biz.png" class="d-block img-fluid mx-auto" data-aos="fade-right" data-aos-offset="100"></p>
+
+    </div>
+  </section>
+  
+    <section id="comment">
+    <div class="container white">
+      <h2 class="text-center"><span>推薦コメント</span></h2>
+
+<div class="row">
+        <div class="col-md-3 col-12"> 
+        <img src="/static/book/campaign/customer-journey/images/takei400.png" class="d-block img-fluid mx-auto mb-2">
+        </div>
+               <div class="col-md-9 col-12">
+                <p>
+                今やマーケティング戦略はカスタマージャーニーマップで表現するのがスタンダードな現代。ジャーニーマップの作成はマーケター必須のスキルです。しかし、今まで具体的にどう作るかをまとめた本はありませんでした。今回、一からカスタマージャーニーマップをワークショップで作る作り方を実践的に解説したこの本は、その豊富な事例とともに、ジャーニーマップの作成を考える全ての人に是非読んでいただきたいと思います。</p>
+
+  <p>ことに、ワークショップで使いやすいツールをダウンロードできる付録は活用してもらいたいですね。また、ワークショップを行う際に大事な「時間を区切る」ことなど、具体的な実践ポイントが多く書かれていますから、書かれている通りにやりさえすればジャーニーマップを作ることができるのが特徴。ワークショップを行ったら、やりっぱなしにするのでなくChapter6を参考に、実践につなげていただきたいですね！
+
+  <p class="text-right">グロービス経営大学院教員 ／二期会 声楽家
+武井 涼子氏
+</p>
+        </div>
+        </div>
+
+    </div>
+  </section>
+  
+  <div class="bo">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6 col-12 mb-2 mb-sm-0"> <a class="button btn-block" href="https://www.amazon.co.jp/dp/4798153753?tag=sesale-22" target="_blank">Amazonで購入</a> </div>
+        <div class="col-md-6 col-12"> <a class="button btn-block" href="https://www.shoeisha.co.jp/book/detail/9784798153759" target="_blank">他書店で購入</a> </div>
+      </div>
+    </div>
+  </div>
+  <section id="furoku">
+    <div class="container white">
+      <h2 class="text-center"><span>付属データ</span></h2>
+      <div class="row mb-4">
+        <div class="col-md-5 col-12">
+          <h3>接点カード </h3>
+          <p>マップの「顧客接点」欄で使う、顧客が利用するデバイスや利用シーンなどを表すカードです。スマートフォン、テレビ、SNS、検索、店舗、セミナー、商談など、B2CとB2Bいずれのカスタマージャーニーマップでも顧客接点を表現するのに利用することができます。 </p>
+        </div>
+        <div class="col-md-7 col-12"> <img src="/static/book/campaign/customer-journey/images/04.png" width="621" height="377" class="d-block img-fluid mx-auto"></div>
+      </div>
+      <div class="row mb-4">
+        <div class="col-md-5 col-12">
+          <h3>感情カード</h3>
+          <p>マップの「感情変化」欄で使う、顧客の感情を表すカードです。ポジティブ／ニュートラル／ネガティブな感情を色や表情が違うアイコンで表現します。 </p>
+        </div>
+        <div class="col-md-7 col-12"> <img src="/static/book/campaign/customer-journey/images/05.png" width="512" height="305" class="d-block img-fluid mx-auto"></div>
+      </div>
+      <div class="row mb-4">
+        <div class="col-md-5 col-12">
+          <h3>ペルソナシート</h3>
+          <p>履歴書のようなスタイルで、ペルソナの詳細を記入することができます。B2CとB2B、それぞれのペルソナに対応。B2Bは企業ペルソナと個人ペルソナの2つを記載することができます。 </p>
+        </div>
+        <div class="col-md-7 col-12"> <img src="/static/book/campaign/customer-journey/images/06.png" width="609" height="437" class="d-block img-fluid mx-auto"></div>
+      </div>
+      <div class="mt-5 text-center"> <a class="button down" href="https://www.shoeisha.co.jp/book/download/9784798153759" target="_blank">ダウンロードはこちら</a> </div>
+    </div>
+  </section>
+  <section id="author">
+    <div class="container white">
+      <h2 class="text-center"><span>著者について</span></h2>
+      <div class="row">
+        <div class="col-md-3 col-12"> <img src="/static/book/campaign/customer-journey/images/kato.png" width="200" height="250"  class="d-block img-fluid mx-auto mb-2"></div>
+        <div class="col-md-9 col-12">
+          <h5>加藤希尊  Mikoto Kato</h5>
+          <p>広告代理店と広告主、両方の経験を持つプロフェッショナルマーケター。外資系広告代理店（WPPグループ）に12年勤務し、2012年よりセールスフォース・ドットコムに参画。AIやクラウドを活用したカスタマージャーニーの実現を啓蒙する。2016年にMarkeZine編集部と共同でカスタマージャーニーの実践とリアルに迫る「カスタマージャーニー研究プロジェクト」を立ち上げる。また、国内100社のブランドを対象としたトップマーケターのネットワーク「JAPAN CMO CLUB」を主宰。著書にその成果をまとめた『The Customer Journey「選ばれるブランド」になるマーケティングの新技法を大解説』（宣伝会議）がある。 </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="buy">
+    <div class="container white">
+      <h2 class="text-center"><span>購入はこちら</span></h2>
+      <div class="row">
+        <div class="col-md-10 offset-md-1">
+          <div class="row">
+            <div class="col-sm-12 col-md-8">
+              <h5>目次 </h5>
+              <dl class="row">
+                <dt class="col-sm-2">第1章</dt>
+                <dd class="col-sm-10">カスタマージャーニーマップとは</dd>
+                <dt class="col-sm-2">第2章</dt>
+                <dd class="col-sm-10">ワークショップの準備とファシリテーションの基本</dd>
+                <dt class="col-sm-2">第3章</dt>
+                <dd class="col-sm-10">マップを作ってみよう（B2C編）</dd>
+                <dt class="col-sm-2">第4章</dt>
+                <dd class="col-sm-10">マップを作ってみよう（B2B編）</dd>
+                <dt class="col-sm-2">第5章</dt>
+                <dd class="col-sm-10">事例で学ぶマップの活用　<br>
+                  チャコット/バリューマネジメント/JCB<br>
+                  トレタ/ビズリーチ/ユーザベース</dd>
+                <dt class="col-sm-2">第6章</dt>
+                <dd class="col-sm-10">マップからアクションにつなげよう</dd>
+              </dl>
+            </div>
+            <div class="col-sm-12 col-md-4 note">
+              <p><img src="/static/book/campaign/customer-journey/images/book.png" width="150" class="d-block img-fluid mx-auto"></p>
+              <p class="small">加藤希尊 著<br>
+                発売日：2018年09月25日<br>
+                ISBN：9784798153759<br>
+                価格：本体2,000円＋税<br>
+                仕様：B5・136ページ </p>
+              <a href="https://www.shoeisha.co.jp/book/detail/9784798153759" target="_blank"  class="btn btn-outline-secondary btn-block btn-sm">詳しく見る</a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<div class="bo">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-12 mb-2 mb-sm-0"> <a class="button btn-block" href="https://www.amazon.co.jp/dp/4798153753?tag=sesale-22" target="_blank">Amazonで購入</a> </div>
+      <div class="col-md-6 col-12"> <a class="button btn-block" href="https://www.shoeisha.co.jp/book/detail/9784798153759" target="_blank">他書店で購入</a> </div>
+    </div>
+  </div>
+</div>
+
+<div class="container" style="overflow:hidden"><a href="https://markezine.jp/mzbooks" target="_blank"> <img src="/static/book/campaign/customer-journey/images/mzb_1200.png" class="d-block img-fluid mx-auto"></a>
+
+<style>
+.fb_iframe_widget > span {
+  vertical-align: baseline !important;
+}</style>
+<div class="float-right"> <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div id="social" class="sns">
+    <ul>
+      <li>
+      <a href="http://b.hatena.ne.jp/entry/https://www.shoeisha.co.jp/book/campaign/customer-journey" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+      </li>
+      <li>
+        <div class="fb-share-button" data-href="https://www.shoeisha.co.jp/book/campaign/customer-journey" data-type="button_count"></div>
+              </li>
+      <li>
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+        <g:plusone></g:plusone>
+      </li>
+      <li>
+      <style>
+      iframe.twitter-share-button {width: 100px!important;}
+    </style>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.shoeisha.co.jp/book/campaign/customer-journey" data-lang="ja">ツイート</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      </li>
+
+          </ul>
+  </div>
+
+
+ </div>
+</div>
+<script>
+// Wrap every letter in a span
+$('.ml2').each(function(){
+  $(this).html($(this).text().replace(/([^\x00-\x80]|\w)/g, "<span class='letter'>$&</span>"));
+});
+
+ml.timelines["ml2"] = anime.timeline({loop: true })
+  .add({
+    targets: '.ml2 .letter',
+    scale: [4,1],
+    opacity: [0,1],
+    translateZ: 0,
+    easing: "easeOutExpo",
+    duration: 950,
+    delay: function(el, i) {
+      return 70*i;
+    }
+  }).add({
+    targets: '.ml2',
+    opacity: 0,
+    duration: 1000,
+    easing: "easeOutExpo",
+    delay: 5000
+  });
+</script>
+<script>
+AOS.init({
+    duration: 600,
+    easing: 'ease-in-sine',
+    delay: 100,
+     disable: 'mobile'
+  });
+  </script>
+
+
+    <footer>
+            <div class="container support_link">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#support">読者の皆様へ 
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="support" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/book/errata">正誤表</a>
+                    </li>
+                    <li>
+                      <a href="/book/faq">よくある質問</a>
+                    </li>
+                    <li>
+                      <a href="/book/qa">刊行物Ｑ＆Ａ</a>
+                    </li>
+                    <li>
+                      <a href="/book/download">ダウンロード</a>
+                    </li>
+                    <li>
+                      <a href="/article">コラム</a>
+                    </li>
+                    <li>
+                      <a href="/ml">メールマガジン</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-group">
+              <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" href="#custmor">書店・法人様 
+                  <span class="caret"></span>
+                </a>
+              </div>
+              <div id="custmor" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <ul>
+                    <li>
+                      <a href="/bookstore">書店様</a>
+                    </li>
+                    <li>
+                      <a href="/biz">企業・教育機関様</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="link">
+       <div class="container">
+          <div class="row">
+            <div class="col-md-3">
+              <h2>会社情報</h2>
+              <ul>
+                <li>
+                  <a href="/">TOP</a>
+                </li>
+                <li>
+                  <a href="/about">会社案内</a>
+                </li>
+                 <li>
+                  <a href="/mission">企業理念</a>
+                </li>
+                <li>
+                  <a href="/service">サービス案内</a>
+                </li>
+                <li>
+                  <a href="/press">お知らせ</a>
+                </li>
+                <li>
+                  <a href="/ir">IR情報</a>
+                </li>
+                <li>
+                  <a href="/map">アクセス</a>
+                </li>
+                <li>
+                  <a href="/recruit">採用情報</a>
+                </li>
+                <li class="last">
+                  <a href="/contact">お問い合わせ</a>
+                </li>
+                <li>
+                  <a href="/privacy">個人情報保護</a>
+                </li>
+                <li>
+                  <a href="/exemption">免責事項</a>
+                </li>
+                <li>
+                  <a href="/privacy/social-policy/">SNS利用ポリシー</a>
+                </li>
+                <li>
+                  <a href="https://shoeisha.jp" target="_blank">SHOEISHA iD</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>運営サイト</h2>
+              <ul>
+                <li>
+                  <a href="/book/">本</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://codezine.jp/">プログラミング</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://enterprisezine.jp/">企業ITとマネジメント</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://markezine.jp/">マーケティング</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://moneyzine.jp/">株式投資</a>
+                </li>
+                <li>
+                  <a target="_blank" href="http://selectbox.shoeisha.jp/">ホワイトペーパー</a>
+                </li>
+                <li >
+                  <a target="_blank" href="https://eczine.jp/">ECマーケティング</a>
+                </li>
+                <li >
+                  <a target="_blank" href="https://bizzine.jp/">イノベーション</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://itjinzai-lab.jp/">IT人材</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://edtechzine.jp/">教育ICT</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://minna-no-kurashi.jp/">暮らし・家事</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://event.shoeisha.jp/">イベント・セミナー</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.shoeisha.co.jp/ad/">広告掲載のご案内</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>直販サイト</h2>
+              <ul>
+                <li>
+                  <a target="_blank" href="https://www.seshop.com/">SEshop.com</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-md-3">
+              <h2>グループ企業</h2>
+              <ul>
+                <li>
+                  <a target="_blank" href="http://www.sehi.co.jp/">SE H&amp;I</a>
+                </li>
+                <li>
+                  <a target="_blank" href="https://shoeishaacademy.co.jp/">翔泳社アカデミー</a>
+                  <ul style="list-style-type:disc;margin: 0 0 0 1.5em;">
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denken3.com/">電験三種</a>
+                        </li>
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/">電気工事士講座</a>
+                        </li>
+                        <li style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/kouza/denkou1/">第一種電気工事士</a>
+                        </li>
+                        <li  style="margin: 5px;">
+                          <a target="_blank" href="https://www.denkou.info/kouza/denkou2/">第二種電気工事士</a>
+                        </li>
+                  </ul>
+                </li>
+                <li>
+                  <a target="_blank" href="https://www.seplus.jp/">SEプラス</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <div class="copyright">Copyright © 1985-2019 SHOEISHA, All rights reserved.</div>
+          </div>
+          <div class="col-md-7 companybanner">
+            <div class=" pull-right">
+              <a href="https://privacymark.jp/" target="_blank"><img alt="" src="/static/common/images/pmark.gif"></a>
+              <a href="http://www.sehi.co.jp/" target="_blank"><img alt="" src="/static/common/images/ToshoJasdaqSEHIG_land.png"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <p id="page-top">
+      <a href="#pagetop">
+        <i class="fas fa-angle-up"></i>
+      </a>
+    </p>
+    <!-- TemplateEnd -->
+  </body>
+</html>
